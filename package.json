@@ -5,7 +5,7 @@
   "main": "m3u-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node m3u-generator.js"
+    "generate": "node ./src/m3u-generator.js"
   },
   "repository": {
     "type": "git",
