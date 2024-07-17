@@ -1,5 +1,5 @@
 # m3u-generator
-Script which generates M3U playlist files for ROMs. Works usually for disc based systems like PlayStation 1, PlayStation 2, Sega Saturn or Dreamcast.
+Script which generates M3U playlists for ROMs. Works usually for disc based systems like PlayStation 1, PlayStation 2, Sega Saturn or Dreamcast.
 
 The generated result is compatible with the [ES-DE M3U playlist file format](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md?ref_type=heads#multiple-game-files-installation).
 
