@@ -3,15 +3,15 @@ Script which generates M3U playlists for ROMs. Works usually for disc based syst
 
 The generated result is compatible with the [ES-DE M3U playlist file format](https://gitlab.com/es-de/emulationstation-de/-/blob/master/USERGUIDE.md?ref_type=heads#multiple-game-files-installation).
 
-## Setup
+## ⚙️ Setup
 1. Install latest version of [Node.js and NPM](https://nodejs.org/en/download/package-manager)
 2. Clone this repository or download as ZIP file and unzip it
 
-## Usage
+## 🔧 Usage
 1. Navigate with the terminal inside this project root folder
 2. Run `npm run generate -- {Path to your rom folders} [apply]`
 
-## Example usage
+## 📄 Example usage
 1. Your folder structure might look like this
 ```
 .
