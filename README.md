@@ -6,9 +6,12 @@ The generated result is compatible with the [ES-DE M3U playlist file format](htt
 ## ⚙️ Setup
 1. Install latest version of [Node.js and NPM](https://nodejs.org/en/download/package-manager)
 2. Clone this repository or download as ZIP file and unzip it
+3. Be in project root folder
+4. run `npm i`
+
 
 ## 🔧 Usage
-1. Navigate with the terminal inside this project root folder
+1. Be in project root folder
 2. Run `npm run generate -- {Path to your rom folders} [apply]`
 
 ## 📄 Example usage
