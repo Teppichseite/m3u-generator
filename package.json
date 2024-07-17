@@ -5,7 +5,7 @@
   "main": "m3u-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node ./src/m3u-generator.js"
+    "generate": "ts-node ./src/m3u-generator.ts"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Teppichseite/m3u-generator/issues"
   },
-  "homepage": "https://github.com/Teppichseite/m3u-generator#readme"
+  "homepage": "https://github.com/Teppichseite/m3u-generator#readme",
+  "devDependencies": {
+    "@types/node": "^20.14.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
 }
