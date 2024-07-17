@@ -1,0 +1,20 @@
+{
+  "name": "m3u-generator",
+  "version": "1.0.0",
+  "description": "Script which generates M3U playlist files",
+  "main": "m3u-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node m3u-generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teppichseite/m3u-generator.git"
+  },
+  "author": "Teppichseite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teppichseite/m3u-generator/issues"
+  },
+  "homepage": "https://github.com/Teppichseite/m3u-generator#readme"
+}
